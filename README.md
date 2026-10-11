@@ -1,2 +1,0 @@
-# Pasaporte-de-colores
-Juego
